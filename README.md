@@ -27,26 +27,8 @@ npm run dev
 
 **Note:** All required face-api.js models are already installed and placed in the correct directory.
 
-### 3. Run the development server
-```
-npm run dev
-```
-
-### 4. Open the app
-- Visit [http://localhost:3000](http://localhost:3000) in your browser.
-
-### 5. Usage
-- Allow camera access when prompted.
-- Start face tracking and recording.
-- Save or download recorded videos from the UI.
-
 ## Technical Stack
 - Next.js
 - face-api.js
 - MediaRecorder API
 - Tailwind CSS
-
-## Usage
-- Allow camera access
-- Start tracking and recording
-- Save or download recorded videos
